@@ -1,7 +1,8 @@
-# Blog of Song Kong
-This is a Jekyll theme called Ice bear.
+# Blog of Nicole Wu
+I'm a front-end engineer learned by myself after graduating from university.
+Firstly working in Shanghai, and now move to Hangzhou.
+I'd like to share knowledge about front-end and ideas in life with you.
 
+
+This cute Jekyll theme called Ice bear forked from Song Kong.
 To learn how to install and use this theme, please check out the [installation guide](http://kongsong.me/blog/ice-bear-jekyll-theme/) for more information.
-
-##License
-This theme is open source under MIT License. So feel free to use this Jekyll theme on your site, although linking back to me is more than welcomed.
