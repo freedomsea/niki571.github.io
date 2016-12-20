@@ -1,7 +1,6 @@
 ---
 layout: post-list
-title:  Blog of Song
+title:  Blog of Nicole
 description: "List of posts"
 permalink: /blog/
 ---
-
