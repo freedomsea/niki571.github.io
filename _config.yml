@@ -1,7 +1,7 @@
-#Site
-title: 石原-Nicole Wu
+# Site
+title: 晴晴晴-Nicole Wu
 description: This is Nicole's blog.
-logo: favicon.png
+logo: favicon.ico
 url: ''
 baseurl: /hahah
 rss_url: /feed.xml
@@ -21,24 +21,24 @@ sass:
   style:            compressed
 
 # Social Links
-email:               hi@kongsong.me
-#google.plus:        username
-#twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
+email:              super571@sina.com
+#google.plus:       username
+#twitter:           username
+#facebook:          username
+github:             niki571
+stackoverflow:      6528774/nicole-wu   #from a "http://stackoverflow.com/users/123456/username" link
+#linkedin:          username
 #xing:              username
-#instagram:          username
+instagram:          nicolewu571
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+#steam:             username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
-#weibo:             username
+weibo:              goodgirlsgotoheaven
 #flickr:            username
 #codepen:           username
 #keybase:           username
