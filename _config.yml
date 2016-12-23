@@ -2,7 +2,8 @@
 title: 晴晴晴-Nicole Wu
 description: This is Nicole's blog.
 logo: favicon.ico
-url: ''
+url: 'kongsong.me'
+baseurl: /hahah
 rss_url: /feed.xml
 
 # Jekyll
